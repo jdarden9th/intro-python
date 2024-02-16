@@ -60,3 +60,4 @@ currentScore= 100
 highScore=2300
 
 # Bonus : What does the type() function do? it returnes any stored data 
+#msg
