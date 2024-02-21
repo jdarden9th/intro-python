@@ -11,8 +11,8 @@
 #Why do you think it is important to build algorithms where there exists racial context?
 #because certin recial group might not understand the way the algorithm speaks or because of color comfort.
 #Why do you think it is important to have people of color involved in the development of these AI algorithms and systems?
-i think it might important because of the society they have an impact on along with the impact on young colored people. G9iving them reasons to look up 
-1#
+#i think it might important because of the society they have an impact on along with the impact on young colored people. G9iving them reasons to look up 
+
 
    
 
