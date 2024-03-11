@@ -30,12 +30,9 @@
 # you may enter data using input or pass in data into your function as parameters. 
 
 
-def DataType(Temp):
-    if Temp < 70:
-        print('Its is cold outside.')
-    elif Temp > 75:
-        print('Its hot outside.')
-    else:
-        print('Its perfect weather outside.')
-
-DataType(90)
+def scholarShip(UserScholarship):
+    if UserScholarship == 'Yes':
+        print('You are unable to get a Scholarship.')
+    if UserScholarship == 'No':
+        print('Congrats! Youve gotten the scholarship.')
+scholarShip('No')
