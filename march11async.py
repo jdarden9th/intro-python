@@ -14,9 +14,14 @@
 # you use if you wanted to convert a string data type
 # into an integer data type? Please write your response
 # in a complete sentence. 
-
+'i would use the int() function to convert a string into an integer'
+this is my bulit function
+int()
+#keywords 
+#functions 
+#converts a string into an integer 
 # 2. Create a list called numbCol that contains three (3 ) colors and three (3) numbers.
-
+numbcol= {'blue','red','green',}
 # 3. You have been hired by a University to create
 # a scholarship function. The client would like to provide 
 # students a scholarship to their school based on the following
@@ -30,7 +35,7 @@
 # you may enter data using input or pass in data into your function as parameters. 
 
 
-def scholarShip(UserScholarship):
+def scholarShip(User_scholarship):
     if UserScholarship == 'Yes':
         print('You are unable to get a Scholarship.')
     if UserScholarship == 'No':
