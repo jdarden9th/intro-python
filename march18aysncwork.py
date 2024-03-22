@@ -14,7 +14,7 @@ def count_characters(input_string):
 # a simple rock, paper, scissors game. Your game should allow the user to enter a letter
 # that will represent the values rock, paper, and scissors (ex. r = rock, p = paper, s= scissors).
  def winner(Computer_Move,Player_Move):
-    if Computer_Move == Player_Move:+
+    if Computer_Move == Player_Move:
         print('Tie')
     elif Player_Move == 'Rock' and Computer_Move == 'paper':
         winner = 'computer'
