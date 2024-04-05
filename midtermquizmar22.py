@@ -126,5 +126,5 @@ def achive over 85%_ you passed SAT
              usertemp= int(input("enter temperature"))
              if the number is above 60 == it is warm outside
              if the number is above 80 == it is hot outside
-             if the number is below 50 == it is cold 
+             if the number is below 50 == it is cold                                               
              if the number is above 50 == it is not warm but it is also not to cold

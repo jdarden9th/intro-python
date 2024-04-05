@@ -18,8 +18,7 @@ def count_characters(input_string):
         print('Tie')
     elif Player_Move == 'Rock' and Computer_Move == 'paper':
         winner = 'computer'
-    elif Player_Move == 'paper' and Computer_Move == 'Scissor':
-        winner = 'Computer'
+    elif Player_Move == 'paper' and Computer_Move == 'Scissor':                                                                      
     elif Player_Move == 'Scissor' and Computer_Move == 'Rock':
         winner = 'Computer'
     elif Player_Move == 'paper' and Computer_Move == 'Rock':
